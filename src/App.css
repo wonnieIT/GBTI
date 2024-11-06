@@ -26,7 +26,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:  #f5ca2d;
   font-family: KakaoRegular;
 }
 
@@ -50,7 +50,7 @@
 .start-button {
   font-size: 1.2em;
   padding: 15px 30px;
-  background-color: #007bff;
+  background-color: #f5ca2d;
   color: white;
   border-radius: 10px;
 }
@@ -64,11 +64,12 @@
   max-width: 400px;
   margin: 20px;
   text-align: left;
+  color:  white;
 }
 
 .recommendation-card h2 {
   margin-top: 0;
-  color: #61dafb;
+  color: #f5ca2d;
 }
 
 .recommendation-card p {
@@ -79,19 +80,19 @@
 .restart-button {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #f5ca2d;
   color: white;
   border-radius: 5px;
   cursor: pointer;
 }
 
 .restart-button:hover {
-  background-color: #0056b3;
+  background-color: #f5ca2d;
 }
 
 .loader {
   border: 16px solid #f3f3f3;
-  border-top: 16px solid #3498db;
+  border-top: 16px solid #f5ca2d;
   border-radius: 50%;
   width: 120px;
   height: 120px;
